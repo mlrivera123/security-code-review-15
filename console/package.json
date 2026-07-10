@@ -38,7 +38,7 @@
     "@ng-icons/heroicons": "^33.2.2",
     "@ngx-translate/core": "^17.0.0",
     "@tanstack/angular-query-experimental": "^5.100.11",
-    "angular-oauth2-oidc": "^20.0.2",
+    "angular-oauth2-oidc": "^22.0.2",
     "angularx-qrcode": "^21.0.5",
     "buffer": "^6.0.3",
     "codemirror": "^5.65.21",
